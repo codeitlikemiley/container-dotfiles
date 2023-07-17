@@ -87,7 +87,7 @@ alias .5='cd ../../../../..'
 alias \
     cfa="$EDITOR ~/.bash_aliases" \
     cfb="$EDITOR $HOME/.bashrc" \
-    etc="$EDITOR /etc/hosts"
+    etc="$EDITOR /etc/hosts" \
     ;
 
 ################################################################
